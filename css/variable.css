@@ -1,0 +1,23 @@
+:root {
+  --white: #fff;
+  --black: #000;
+  --black-222: #222;
+  --accent-yellow: #edc406;
+  --accent-blue: #027691;
+  --gray-1: #616161;
+  --dark-gray: #3d3d3d;
+  --light-gray-1: #e5e5e5;
+
+  --bg-bright-green: #0d9c4d;
+
+  /* Font size */
+  --text-sm: 1.4rem;
+  --text-default: 1.6rem;
+  --text-medium: 1.8rem;
+  --text-lg: 2.2rem;
+  --text-xl: 2.4rem;
+  --text-2xl: 2.8rem;
+  --text-3xl: 3.2rem;
+  --text-48: 4.8rem;
+  --text-64: 6.4rem;
+}
